@@ -225,7 +225,7 @@ Nicht zu verwechseln ist Pseudonymisierung mit **Anonymisierung**: Bei letzterer
 ---
 
 ## 8. Hardware und Betriebssysteme
-
+Cloud detailierter
 ### Zentrale Hardware-Komponenten eines Computers
 
 Ein Computer (PC) besteht aus mehreren **Hauptkomponenten**, die zusammen ein funktionierendes System bilden. Die wichtigsten _internen_ Bauteile sind:
